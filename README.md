@@ -45,8 +45,7 @@ File Structure
 A recommended folder structure for this project would be:
 
 /
-|-- login.html
-|-- register.html
+|-- index.html
 |-- README.md
 |-- assets/ (optional folder for CSS, JS, or images if you split them out)
 
@@ -60,10 +59,6 @@ No build process or dependencies are required.
 Future Development (Backend)
 This project focuses solely on the client-side user interface and validation. A complete implementation would require a backend service (e.g., using Node.js, PHP, Python) to handle:
 
-Securely hashing and storing user passwords.
-
 Verifying user credentials during login.
 
-Managing user sessions.
 
-Connecting to a database (e.g., MySQL, PostgreSQL, MongoDB).
